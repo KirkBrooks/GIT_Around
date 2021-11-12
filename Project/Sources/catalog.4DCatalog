@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
 <base name="GIT_Around" uuid="C38456425F134E6297631FC0D11167E0" collation_locale="en">
 	<schema name="DEFAULT_SCHEMA"/>
