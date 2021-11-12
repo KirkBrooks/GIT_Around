@@ -12,3 +12,5 @@
 
 
 ALERT:C41("I'm in San Francisco")
+
+ALERT:C41("Smile, please!")
