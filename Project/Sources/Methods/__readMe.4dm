@@ -4,7 +4,7 @@
  ------------------
  Purpose: 
 
-I would really like to know waht the purpose is.
+I would really like to know what the purpose is.
 */
 
 ALERT:C41("Hello world!")
