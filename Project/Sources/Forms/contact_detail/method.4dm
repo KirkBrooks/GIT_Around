@@ -12,7 +12,7 @@ If (Form:C1466#Null:C1517)
 	
 	Case of 
 		: (Form event code:C388=On Data Change:K2:15)  //  catches all objects
-			ASSERT:C1129(Form:C1466.save().success; "Couldn't save the Contact.")
+			ASSERT:C1129(Form:C1466.save().success; "Couldn't save the Contact!")
 			
 			
 	End case 
