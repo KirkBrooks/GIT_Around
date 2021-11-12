@@ -6,6 +6,3 @@
 
 */
 
-/*
-I did the change after yours
-*/
