@@ -6,7 +6,7 @@
   // ----------------------------------------------------
   // Method: MysticalNomad
   // Description
-  // 
+  //    This is not a trick. This is not a game.
   //
   // Parameters
   // ----------------------------------------------------
