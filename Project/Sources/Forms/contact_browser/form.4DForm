@@ -74,7 +74,7 @@
 					"left": 329,
 					"top": 43,
 					"width": 510,
-					"height": 273,
+					"height": 386,
 					"detailForm": "logo",
 					"borderStyle": "sunken",
 					"dataSource": "Form:C1466.Subform"
@@ -93,7 +93,7 @@
 			}
 		}
 	],
-	"geometryStamp": 22,
+	"geometryStamp": 23,
 	"method": "method.4dm",
 	"editor": {
 		"activeView": "View 1",

@@ -6,3 +6,6 @@
 
 */
 
+ALERT:C41("Hello world!")
+
+ALERT:C41("Again")
