@@ -1,0 +1,2 @@
+//%attributes = {}
+// Simple empty method
